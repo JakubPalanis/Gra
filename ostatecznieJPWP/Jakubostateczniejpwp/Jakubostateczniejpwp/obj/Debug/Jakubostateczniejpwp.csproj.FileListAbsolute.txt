@@ -1,0 +1,9 @@
+C:\Users\Jakub\Desktop\ostatecznieJPWP\Jakubostateczniejpwp\Jakubostateczniejpwp\bin\Debug\Jakubostateczniejpwp.exe.config
+C:\Users\Jakub\Desktop\ostatecznieJPWP\Jakubostateczniejpwp\Jakubostateczniejpwp\bin\Debug\Jakubostateczniejpwp.exe
+C:\Users\Jakub\Desktop\ostatecznieJPWP\Jakubostateczniejpwp\Jakubostateczniejpwp\bin\Debug\Jakubostateczniejpwp.pdb
+C:\Users\Jakub\Desktop\ostatecznieJPWP\Jakubostateczniejpwp\Jakubostateczniejpwp\obj\Debug\Jakubostateczniejpwp.csprojAssemblyReference.cache
+C:\Users\Jakub\Desktop\ostatecznieJPWP\Jakubostateczniejpwp\Jakubostateczniejpwp\obj\Debug\Jakubostateczniejpwp.Form1.resources
+C:\Users\Jakub\Desktop\ostatecznieJPWP\Jakubostateczniejpwp\Jakubostateczniejpwp\obj\Debug\Jakubostateczniejpwp.Properties.Resources.resources
+C:\Users\Jakub\Desktop\ostatecznieJPWP\Jakubostateczniejpwp\Jakubostateczniejpwp\obj\Debug\Jakubostateczniejpwp.csproj.GenerateResource.cache
+C:\Users\Jakub\Desktop\ostatecznieJPWP\Jakubostateczniejpwp\Jakubostateczniejpwp\obj\Debug\Jakubostateczniejpwp.exe
+C:\Users\Jakub\Desktop\ostatecznieJPWP\Jakubostateczniejpwp\Jakubostateczniejpwp\obj\Debug\Jakubostateczniejpwp.pdb
