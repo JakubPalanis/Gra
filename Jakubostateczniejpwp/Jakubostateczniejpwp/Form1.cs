@@ -60,7 +60,7 @@ namespace Jakubostateczniejpwp
         {
             //co 20 ms odświeżanie
 
-            if (poziom == 2)                                                    // jeżeli gracz mając 3 poziom przejdzie przez linię mety wyskakuje okienko z informacją o wygranej i czasem końcowym
+            if (poziom == 4)                                                    // jeżeli gracz mając 3 poziom przejdzie przez linię mety wyskakuje okienko z informacją o wygranej i czasem końcowym
                                                                                 // jeżeli jest on najkrótszy z poprzednich gier jest on zapisywany jako najlepszy czas i wyswietlany na ekranie
             {
                     if (i == 1)
